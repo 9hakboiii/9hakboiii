@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="![썸네일 ar 이모지](https://github.com/user-attachments/assets/bc3b356d-8acd-4297-822e-d842e17af582)f"  />
 </div>
 
 ###
