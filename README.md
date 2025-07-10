@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![썸네일 ar 이모지](https://github.com/user-attachments/assets/bc3b356d-8acd-4297-822e-d842e17af582)f"  />
+  <img height="150" src="https://github.com/user-attachments/assets/bc3b356d-8acd-4297-822e-d842e17af582"  />
 </div>
 
 ###
@@ -18,11 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
@@ -41,10 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
