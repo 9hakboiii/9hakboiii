@@ -31,7 +31,7 @@
   </span>
 </div>
 
-## 📈 GitHub Stats
+## 🌟 GitHub Stats
 
 <div align="center">
   <table>
@@ -39,14 +39,22 @@
       <td>
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=popopasd" />
       </td>
+      <!-- <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=9hakboiii&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+      </td> -->
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=9hakboiii&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img src="https://githubcard.com/9hakboiii.svg?d=yNVm9dtK" alt="GitHub Card" />
       </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=9hakboiii&theme=dark&hide_border=true&layout=compact"/>
-      </td>
+      <!-- <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9hakboiii&theme=dark&hide_border=true&layout=compact"/>
+      </td> -->
     </tr>
   </table>
 </div>
+
+## 📈 Activity Graph
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=9hakboiii&count_private=true&area=true&days=30&theme=react-dark" width="100%">
+</p>
 
 
